@@ -1,7 +1,7 @@
 package br.com.caelum.teste;
 
 import br.com.caelum.dao.ContatoDAO;
-import br.com.caelum.modelo.Contato;
+import br.com.caelum.model.Contato;
 
 public class TestaInsere {
 	

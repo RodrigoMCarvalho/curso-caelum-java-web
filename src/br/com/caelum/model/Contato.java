@@ -1,4 +1,4 @@
-package br.com.caelum.modelo;
+package br.com.caelum.model;
 
 import java.util.Calendar;
 

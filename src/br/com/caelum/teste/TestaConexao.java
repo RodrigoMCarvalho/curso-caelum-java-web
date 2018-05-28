@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import javax.persistence.EntityManager;
 
 import br.com.caelum.ConnectionFactory;
-import br.com.caelum.modelo.Contato;
+import br.com.caelum.model.Contato;
 
 public class TestaConexao {
 

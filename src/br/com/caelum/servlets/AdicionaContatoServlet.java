@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import br.com.caelum.dao.ContatoDAO;
-import br.com.caelum.modelo.Contato;
+import br.com.caelum.model.Contato;
 
 @SuppressWarnings("serial")
 @WebServlet("/adicionaContato")
